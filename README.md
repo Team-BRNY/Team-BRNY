@@ -12,8 +12,11 @@
 * [400px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_400.html)
 * [450px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_450.html)
 * [500px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_500.html)
-* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png" target="_blank">900px wide (because of size this one is an image)</a>
-* [900px wide text (not recomended, will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
+* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png" target="_blank">900px wide image(because of size this one is an image)</a>
+* [900px wide (will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
+* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.png" target="_blank">900px wide unicode image(because of size this one is an image)</a>
+* [900px wide unicode(will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.html)
+
 
 # What Still needs to be added
 
