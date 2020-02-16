@@ -17,7 +17,7 @@
 * <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png" target="_blank">900px wide image (because of size this one is an image)</a>
 * [900px wide (will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
 
-# Unicode
+# <a href="#unicode"><span name="unicode">Unicode</span></a>
 
 * <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.png" target="_blank">900px wide unicode image (because of size this one is an image)</a>
 * [900px wide unicode (will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.html)
