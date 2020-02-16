@@ -33,3 +33,4 @@
 * 800px
 * 850px
 * picture versions of each one
+* all the sizes but 900px in unicode
