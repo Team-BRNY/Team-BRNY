@@ -1,4 +1,4 @@
-# Team-BRNY
+# [Team-BRNY](https://team-brny.github.io/Team-BRNY/)
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" type="image/png" href="https://team-brny.github.io/Team-BRNY/favicon.ico">
