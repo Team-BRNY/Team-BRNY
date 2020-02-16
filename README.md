@@ -6,3 +6,4 @@
 * [150px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_150.html)
 * [500px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_500.html)
 * [900px wide (because of size this one is an image)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png)
+* [900px wide text(not recomended, will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
