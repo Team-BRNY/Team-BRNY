@@ -24,3 +24,4 @@
 * 750px
 * 800px
 * 850px
+* picture versions of each one
