@@ -16,6 +16,8 @@
 * [500px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_500.html)
 * <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_550.png" target="_blank">550px wide image</a>
 * [550px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_550.html)
+* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_600.png" target="_blank">600px wide image</a>
+* [600px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_600.html)
 * <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png" target="_blank">900px wide image</a>
 * [900px wide text (will probably be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
 
@@ -27,7 +29,6 @@
 
 # What Still needs to be added
 
-* 600px
 * 650px
 * 700px
 * 750px
