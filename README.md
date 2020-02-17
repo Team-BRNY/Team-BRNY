@@ -27,7 +27,7 @@ Just some ASCII art of the team BRNY (Brandy) logo
 * [900px wide unicode (will probably be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.html)
 
 
-# What Still needs to be added
+# What Still Needs To Be Added
 
 * 650px
 * 700px
