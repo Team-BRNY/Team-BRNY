@@ -5,27 +5,28 @@
 
 # <a href="#text"><span name="text">Text</span></a>
 
-* [50px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_50.html)
-* [150px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_150.html)
-* [200px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_200.html)
-* [250px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_250.html)
-* [300px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_300.html)
-* [350px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_350.html)
-* [400px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_400.html)
-* [450px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_450.html)
-* [500px wide](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_500.html)
-* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png" target="_blank">900px wide image (because of size this one is an image)</a>
-* [900px wide (will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
+* [50px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_50.html)
+* [150px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_150.html)
+* [200px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_200.html)
+* [250px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_250.html)
+* [300px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_300.html)
+* [350px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_350.html)
+* [400px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_400.html)
+* [450px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_450.html)
+* [500px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_500.html)
+* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_550.png" target="_blank">550px wide image</a>
+* [550px wide text](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_550.html)
+* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.png" target="_blank">900px wide image</a>
+* [900px wide text (will probably be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900.html)
 
 # <a href="#unicode"><span name="unicode">Unicode</span></a>
 
-* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.png" target="_blank">900px wide unicode image (because of size this one is an image)</a>
-* [900px wide unicode (will be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.html)
+* <a href="https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.png" target="_blank">900px wide unicode image</a>
+* [900px wide unicode (will probably be laggy)](https://team-brny.github.io/Team-BRNY/ASCII-Team_BRNY_logo_900_unicode.html)
 
 
 # What Still needs to be added
 
-* 550px
 * 600px
 * 650px
 * 700px
